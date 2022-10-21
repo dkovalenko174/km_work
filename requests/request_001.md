@@ -71,7 +71,7 @@ section Логистика Фрилайнс
         {
           "type": "Point",
           "properties": {"prop0": "value0"},
-          "coordinates": [4000, 5000]
+          "coordinates": [663939.53981855, 4542124.2470322]
         },
         {
           "type": "LineString",
